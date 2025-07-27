@@ -1,0 +1,20 @@
+[general]
+import = [
+	"~/.config/alacritty/themes/themes/citylights.toml"
+]
+
+live_config_reload = true
+
+[window]
+opacity = 0.90
+title = "terminal"
+dynamic_title = false
+
+[font]
+size = 13.5
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+
